@@ -1,5 +1,6 @@
 # Signal-Filtering-Techniques
 Realised a Shazam like type application, in order to analyze the spectrum of any signal. Used a database with EKG records.
+
 Pentru implementarea functiei ecg_function am procedat in felul urmator:
 	
 -> am citit din fisierul rec_1m.mat al fiecarei persoane valorile vectorului
